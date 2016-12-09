@@ -1,4 +1,4 @@
 # heavens-door-ra
-Heaven's Door RA - A plugin of Latch
+Heaven's Door RA - Manage your remote access with Latch
 
-Coming Soon!!
+Video: https://youtu.be/4JfM06t5p8k
